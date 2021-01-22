@@ -71,4 +71,4 @@ https://fontawesome.com/
 
 ### Customize configuration
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Designing with Tailwind CSS: Responsive Design
